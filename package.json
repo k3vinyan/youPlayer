@@ -1,0 +1,14 @@
+{
+  "name": "youplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "watch": "webpack --watch"
+  },
+  "author": "k3vinyan",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
